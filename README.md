@@ -2,15 +2,19 @@
 
 <h2>**Final Year Project Management System for University**</h2>
 
-<h5>Introduction:</h5>
+# Project Deployed Link
+
+- **Link:** <a href="https://fypms-ue.netlify.app/" target="_blank">Click here 🔥</a>
+
+<h3>Introduction:</h3>
 
 This project aims to develop an online platform to facilitate the completion of final year projects (FYP) for the information technology department. The FYP is a crucial component of the department's curriculum, where groups of students work under the guidance of a supervisor to complete a theme-based project. The platform will utilize cutting-edge technology to enhance collaboration and communication among the three key user groups: FYP programme organizers, project supervisors, and project group members. The goal of this project is to create a complete web-based system that streamlines the FYP process and enhances the overall experience for all involved parties.
 
-<h5>Problem Statement:</h5>
+<h3>Problem Statement:</h3>
 
 In the current digital age, many organizations, including universities, are moving towards digitization of their data through the implementation of learning management systems. However, the management of final year projects (FYP) within universities continues to rely on traditional and outdated techniques. The Project Management Office (PMO) is responsible for overseeing all aspects of the FYP process, including student groups, supervisors, evaluations, submissions, and schedules. Without a digital and automated project management system, the PMO faces difficulties in effectively managing these tasks. Additionally, student groups engaged in FYP projects would benefit from a system that allows for not only project management, but also virtual collaboration and communication with their supervisors and peers. Therefore, a system is needed to assist the PMO in managing all aspects of the FYP process, aid supervisors in their supervision of projects, and assist students in managing their projects, facilitating virtual discussions, sharing resources, and communicating with their supervisor.
 
-<h5>Goals and Objectives:</h5>
+<h3>Goals and Objectives:</h3>
 
 The primary goal of the proposed system is to improve the efficiency and effectiveness of the FYP process by reducing manual work for the PMO.
 Enhance communication among students, supervisors, administration, and coordinators through the implementation of the system.
@@ -69,14 +73,21 @@ Before you begin, make sure you have the following installed:
    ```
    PORT=5000
 
+7. **Login credentials:**
+
+   ```bash
+   Drop a message to me on LinkedIn or email to get the login credentials.
+   ```
+
+
 ## Connect with Me
 
-Feel free to connect with me on social media to stay updated on my latest projects and activities:
+Feel free to connect with me on social media or via email to stay updated on my latest projects and activities:
 
-- **GitHub:** [@mubasharali-dev](https://github.com/mubasharali-dev)
-- **LinkedIn:** [Mubashar Ali](https://www.linkedin.com/in/mubasharali-dev/)
-- **Email:** [mubashar.hashmat@gmail.com](mailto:mubashar.hashmat@gmail.com)
+- **GitHub:** <a href="https://github.com/mubasharali-dev" target="_blank">@mubasharali-dev</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/mubasharali-dev/" target="_blank">Mubashar Ali</a>
+- **Email:** <a href="mailto:mubashar.hashmat@gmail.com" target="_blank">mubashar.hashmat@gmail.com</a>
 
-Don't hesitate to reach out if you have any questions or just want to say hi! 😄
+Don't hesitate to reach out if you have any questions, want to collaborate, or just want to say hi! 😄
 
 
