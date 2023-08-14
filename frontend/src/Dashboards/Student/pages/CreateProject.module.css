@@ -1,0 +1,39 @@
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.container h3 {
+  color: #6759d1;
+}
+
+.form {
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: auto;
+  column-gap: 50px;
+  row-gap: 20px;
+  align-items: flex-start;
+  margin-bottom: 50px;
+}
+
+.container select {
+  appearance: none;
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="none" stroke="grey" stroke-width="2" d="M14.5,5.5l-6,6-6-6"/></svg>');
+  background-repeat: no-repeat;
+  background-position: right 0.6rem center;
+  background-size: 1.2rem 1.3rem;
+}
+
+.container input,
+.container select {
+  font-size: 1rem;
+  padding: 0.5rem;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+}
+
+/* .container button {
+  max-height: 40px;
+  margin-bottom: 31px;
+} */

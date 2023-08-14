@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+  margin-left: 20px;
+}
+.card {
+  background-color: white;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  max-width: 700px;
+  color: rgb(7, 101, 114);
+}
+
+.limit {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

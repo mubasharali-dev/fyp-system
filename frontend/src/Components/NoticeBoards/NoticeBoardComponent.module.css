@@ -1,0 +1,45 @@
+.notice-container {
+  width: 22rem;
+  padding: 2rem 1rem;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  gap: 1.2rem;
+}
+
+.wide {
+  width: 50rem;
+}
+
+.head {
+  font-size: larger;
+  color: #6759d1;
+  margin-bottom: 1rem;
+}
+
+.load {
+  color: #6759d1;
+  cursor: pointer;
+}
+
+.load:hover {
+  color: rgba(39, 125, 255, 1);
+}
+
+.notice-container button {
+  width: 100%;
+}
+
+.form {
+  display: grid;
+  grid-template-columns: auto;
+  column-gap: 50px;
+  row-gap: 20px;
+  align-items: flex-start;
+}
+
+.form label {
+  color: #6759d1;
+  margin-bottom: 5px;
+}

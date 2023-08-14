@@ -1,0 +1,24 @@
+.notification-container {
+  width: 38rem;
+  padding: 2rem 1rem;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  gap: 1.2rem;
+}
+
+.head {
+  font-size: larger;
+  color: #6759d1;
+  margin-bottom: 1rem;
+}
+
+.load {
+  color: #6759d1;
+  cursor: pointer;
+}
+
+.load:hover {
+  color: rgba(39, 125, 255, 1);
+}

@@ -1,0 +1,23 @@
+.container {
+  background-color: #dbe9ff;
+  height: 8vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 20px;
+  margin-bottom: 1rem;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+/* .group {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+} */
+
+.notification {
+  height: 1.5rem;
+  width: auto;
+}

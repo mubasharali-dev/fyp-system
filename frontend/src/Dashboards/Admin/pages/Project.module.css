@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  /* width: 100%; */
+}
+
+.project {
+  padding: 2rem 3rem;
+  width: 50rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.item {
+  display: flex;
+  gap: 2rem;
+}
+
+.buttons {
+  /* margin-top: 1rem; */
+  justify-content: space-between;
+}
+
+.project p {
+  color: #6759d1;
+}
+.project span {
+  color: #464646;
+}
+
+.headline {
+  font-size: larger;
+  align-self: center;
+}

@@ -1,0 +1,57 @@
+.page {
+  display: grid;
+  grid-template-columns: auto;
+  justify-content: center;
+}
+
+.page hr {
+  width: 800px;
+  margin-top: 2rem;
+}
+
+.page h5 {
+  color: #6759d1;
+  margin-top: 2rem;
+}
+
+.project {
+  padding: 2rem 3rem;
+  width: 50rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.item {
+  display: flex;
+  gap: 2rem;
+}
+
+.items {
+  display: flex;
+  gap: 6rem;
+}
+
+.buttons {
+  justify-content: space-between;
+  align-self: flex-end;
+}
+
+.project p {
+  color: #6759d1;
+}
+.project span {
+  color: #464646;
+}
+
+.headline {
+  font-size: larger;
+  align-self: center;
+}
+
+.teacher {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2rem;
+}

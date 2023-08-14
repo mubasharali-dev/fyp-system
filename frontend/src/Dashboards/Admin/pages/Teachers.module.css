@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-left: 1rem;
+}
+.top {
+  display: flex;
+  justify-content: space-between;
+  max-width: 66rem;
+}
+
+.top h4 {
+  color: #6759d1;
+}
+
+.teachers {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 2rem;
+}
+
+.search {
+  max-width: 18rem;
+  border-radius: 0%;
+}

@@ -1,0 +1,20 @@
+.table {
+  margin: 50px 0px 0px 30px;
+  text-align: center;
+  max-width: 1000px;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+}
+
+.form button {
+  max-height: 40px;
+}
+
+.input,
+.input button {
+  color: blueviolet;
+  cursor: pointer;
+}

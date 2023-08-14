@@ -1,0 +1,32 @@
+.container {
+  margin: 3rem 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3rem;
+}
+
+.add-class {
+  width: 10rem;
+  height: 10rem;
+  mix-blend-mode: multiply;
+  background-color: white;
+  box-shadow: 0px 0px 12px #00000029;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.add-class:hover {
+  box-shadow: 0px 0px 12px #6759d1;
+}
+
+.add-class a {
+  text-decoration: none;
+}
+
+.plus {
+  font-size: 900%;
+  color: #6759d1;
+}

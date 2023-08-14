@@ -1,0 +1,45 @@
+.container {
+  margin-top: 3rem;
+  margin-left: 3rem;
+  display: flex;
+  /* justify-content: space-between; */
+  gap: 3rem;
+  justify-self: center;
+}
+.container h1 {
+  color: black;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3rem;
+}
+
+.card-container {
+  display: grid;
+  grid-template-columns: 18rem 18rem;
+  column-gap: 3rem;
+  row-gap: 3rem;
+  justify-items: center;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  width: 17rem;
+  /* font-size: ; */
+}
+
+.card p {
+  color: #6759d1;
+  word-wrap: normal;
+  width: 60px;
+}
+
+.card h1 {
+  color: #464646;
+}

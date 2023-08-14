@@ -1,0 +1,57 @@
+.formcontainer {
+  margin: 2rem;
+}
+
+.formgroup {
+  margin-bottom: 1rem;
+}
+
+.row {
+  width: 20rem;
+}
+
+.formgroup input,
+.formgroup select {
+  border-radius: 0px;
+  /* border: none; */
+}
+
+.control {
+  height: 3rem;
+  width: 20rem;
+  font-size: 1rem;
+  border-radius: 0%;
+  color: #6759d1;
+  background-color: white;
+  border: 0px;
+  box-shadow: #0000001a 0px 0px 6px;
+  /* font-size: 1rem;
+  padding: 0 1rem;
+  box-sizing: border-box; */
+}
+
+.formcontrol::placeholder {
+  color: rgba(70, 70, 70, 0.6);
+}
+
+.formcontainer label {
+  padding-left: 10px;
+  color: rgba(70, 70, 70, 0.6);
+}
+
+.formcontainer button {
+  margin-top: 1.5rem;
+  width: 100%;
+}
+
+.alert {
+  margin-top: 0.2rem;
+  color: red;
+  font-size: 0.8rem;
+  font-weight: 300;
+}
+
+.taskForm {
+  display: grid;
+  gap: 0.5rem;
+}

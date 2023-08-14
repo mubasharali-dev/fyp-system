@@ -1,0 +1,30 @@
+.text {
+  max-width: 34rem;
+  display: flex;
+  flex-direction: column;
+  justify-items: flex-start;
+}
+
+.headline {
+  color: #464646;
+}
+
+.description {
+  color: rgba(70, 70, 70, 0.7);
+  font-size: small;
+}
+
+.sender {
+  margin-top: 0.4rem;
+  color: #277dff;
+}
+
+.sender span {
+  color: #6759d1;
+}
+
+.text hr {
+  margin-top: 0.8rem;
+  border: 1px solid rgba(70, 70, 70, 0.5);
+  width: 34rem;
+}

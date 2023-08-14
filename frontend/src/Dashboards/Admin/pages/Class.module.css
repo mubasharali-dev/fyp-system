@@ -1,0 +1,97 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  width: 17rem;
+  /* font-size: ; */
+}
+
+.card p {
+  color: #6759d1;
+  word-wrap: normal;
+  width: 10rem;
+}
+
+.card h4 {
+  color: #464646;
+}
+
+.headline {
+  color: #6759d1;
+  font-size: larger;
+  margin-bottom: 1rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 1.5rem 1rem;
+  width: 22rem;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 17rem;
+  font-size: small;
+}
+.item h6 {
+  font-size: small;
+}
+
+.item p {
+  color: #6759d1;
+}
+
+.container button {
+  margin-top: 0.6rem;
+}
+
+.edit {
+  width: 13rem;
+}
+
+.card-container {
+  padding: 1rem 0rem;
+  width: 22rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  /* justify-items: center; */
+}
+
+.form {
+  display: grid;
+  grid-template-columns: 200px 200px;
+  column-gap: 30px;
+  row-gap: 20px;
+}
+
+.form button {
+  margin-top: 30px;
+  max-height: 40px;
+}
+
+.form label {
+  margin: 3px;
+  color: #6759d1;
+}

@@ -1,0 +1,33 @@
+.head {
+  height: 20.9vh;
+  background-color: #fbfbfb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.head img {
+  height: 100px;
+  width: 330px;
+}
+
+/* Below the logo */
+.row {
+  height: 79.1vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  flex-direction: column;
+}
+
+.headline {
+  font-size: 2rem;
+  font-weight: medium;
+  margin-bottom: 0px;
+  color: #6759d1;
+}

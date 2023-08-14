@@ -1,0 +1,13 @@
+.card {
+  background-color: white;
+  box-shadow: #00000029 0px 0px 3px;
+  display: inline-block;
+}
+
+.button {
+  cursor: pointer;
+}
+
+.button:hover {
+  box-shadow: #6759d1 0px 0px 6px;
+}

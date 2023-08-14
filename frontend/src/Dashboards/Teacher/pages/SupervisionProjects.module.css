@@ -1,0 +1,74 @@
+.projectsList {
+  background-color: #f2f2f2;
+}
+
+.projectsList hr {
+  margin-bottom: 30px;
+}
+
+.heading {
+  font-size: 22px;
+  margin-bottom: 30px;
+  color: #6759d1;
+}
+
+.projectCard {
+  margin-bottom: 20px;
+  border: none;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  min-height: 135px;
+  max-width: 300px !important;
+}
+
+.projectCard:hover {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.projectName {
+  font-size: 18px;
+  margin-bottom: 10px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+
+.projectDetails {
+  display: flex;
+  justify-content: space-between;
+}
+
+.members {
+  font-size: 14px;
+}
+
+.status {
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #6759d1;
+  font-weight: bold;
+}
+
+.classesCard {
+  margin-left: 30px;
+  background-color: #fff;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  padding: 20px;
+  text-align: center;
+  max-width: 300px;
+}
+
+.classesList {
+  margin-top: 20px;
+}
+
+.listItem {
+  background-color: #f7f7f7;
+  border: none;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: #9f00cf;
+}

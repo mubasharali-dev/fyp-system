@@ -1,0 +1,53 @@
+.container {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 0rem 1rem;
+  width: 100%;
+  min-width: 22rem;
+}
+
+.text {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-items: flex-start;
+}
+
+.headline {
+  color: #464646;
+}
+
+.description {
+  color: rgba(70, 70, 70, 0.7);
+  font-size: small;
+}
+
+.reciever {
+  margin-top: 1rem;
+  color: #277dff;
+}
+
+.reciever span {
+  color: #6759d1;
+}
+
+.text hr {
+  margin-top: 0.8rem;
+  border: 1px solid rgba(70, 70, 70, 0.5);
+  /* width: 18rem; */
+}
+
+.icon {
+  width: 30px;
+  height: auto;
+  color: #6759d1;
+  margin-top: 0.3rem;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+.icon:hover {
+  color: red;
+  margin-top: 0px;
+}
